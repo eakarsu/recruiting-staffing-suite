@@ -28,3 +28,14 @@
 ## Focused enhancement: Recruiter Screener
 
 Source evidence: AiRecruiterScreener.
+
+## Resume Job Search
+
+- `resume-optimizer` - Resume Optimizer: Resume rewrite, role alignment, keyword coverage, achievements, and ATS readiness.
+- `application-tracker` - Application Tracker: Job applications, status, contacts, follow-ups, and interview pipeline.
+- `interview-prep` - Interview Prep: Behavioral questions, coding practice, role-specific prep, and feedback notes.
+- `career-path-plan` - Career Path Plan: Skills gap, target roles, learning plan, projects, and milestone tracking.
+
+## Current app enhancement: Resume Job Search
+
+Source evidence: AiResumeJobApplication, AICodingInterviewAgent, AICareerPathAgentForStudents.

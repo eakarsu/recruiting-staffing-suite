@@ -10,6 +10,24 @@ export type SourceDashboardAction = {
 
 export const sourceDashboardActions: SourceDashboardAction[] = [
   {
+    "id": "resume-job-search",
+    "label": "Resume Job Search",
+    "description": "Open Resume Job Search workflows elevated from AiResumeJobApplication, AICodingInterviewAgent, AICareerPathAgentForStudents.",
+    "href": "/resume-optimizer",
+    "sourceProjects": [
+      "AiResumeJobApplication",
+      "AICodingInterviewAgent",
+      "AICareerPathAgentForStudents"
+    ],
+    "examples": [
+      "Resume Optimizer",
+      "Application Tracker",
+      "Interview Prep",
+      "Career Path Plan"
+    ],
+    "count": 3
+  },
+  {
     "id": "recruiter-screener",
     "label": "Recruiter Screener",
     "description": "Open Recruiter Screener workflows elevated from AiRecruiterScreener.",

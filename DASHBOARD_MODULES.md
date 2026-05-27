@@ -8,3 +8,5 @@
 - Offers operating view
 - Clients operating view
 - Placements operating view
+
+- Resume Job Search operating view

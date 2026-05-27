@@ -7,6 +7,10 @@ Primary routes:
 - `/profiles`
 
 Feature routes:
+- `/career-path-plan`
+- `/interview-prep`
+- `/application-tracker`
+- `/resume-optimizer`
 - `/interview-shortlist`
 - `/resume-role-fit`
 - `/candidate-screening`

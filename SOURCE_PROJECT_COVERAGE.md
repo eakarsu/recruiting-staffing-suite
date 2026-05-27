@@ -7,3 +7,6 @@
 | AIAcceleratedrug | 17 | 2 | 1 | 1 | admet.js<br>ai.js<br>auth.js<br>bindingAffinities.js<br>clinicalTrials.js |
 | AIAgricultureAssistant | 16 | 9 | 1 | 6 | admin.js<br>aiRoutes.js<br>auth.js<br>cropDiseases.js<br>export.js |
 | AICarWashChainOptimizer | 20 | 8 | 1 | 1 | ai.js<br>aiNew.js<br>alerts.js<br>auth.js<br>chemicalDosing.js |
+| AiResumeJobApplication | 0 | 0 | 0 | 1 | Resume Optimizer<br>Application Tracker<br>Interview Prep<br>Career Path Plan |
+| AICodingInterviewAgent | 0 | 0 | 0 | 1 | Resume Optimizer<br>Application Tracker<br>Interview Prep<br>Career Path Plan |
+| AICareerPathAgentForStudents | 0 | 0 | 0 | 1 | Resume Optimizer<br>Application Tracker<br>Interview Prep<br>Career Path Plan |
