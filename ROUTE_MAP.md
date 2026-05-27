@@ -7,6 +7,9 @@ Primary routes:
 - `/profiles`
 
 Feature routes:
+- `/interview-shortlist`
+- `/resume-role-fit`
+- `/candidate-screening`
 - `/candidates`
 - `/jobs`
 - `/pipelines`

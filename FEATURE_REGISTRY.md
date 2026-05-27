@@ -18,3 +18,13 @@
 - Profiles
 - AI Assistant
 - AI Tools
+
+## Recruiter Screener
+
+- Candidate Screening
+- Resume Role Fit
+- Interview Shortlist
+
+## Focused enhancement: Recruiter Screener
+
+Source evidence: AiRecruiterScreener.
